@@ -1,4 +1,0 @@
-ss[a4paper, 10pt]{article}
-\begin{document}
-README for BrainFInt.py
-\end{document}
