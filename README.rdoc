@@ -1,4 +1,4 @@
-README for BrainFInt.py
+==README for BrainFInt.py
 
 Currently there are two files:
 brainfint.py - The current working revision of the BrainFInt written in Python
